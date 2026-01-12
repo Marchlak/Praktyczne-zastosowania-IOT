@@ -1,0 +1,6 @@
+path: waga_pose_ds
+train: images/train
+val: images/val
+names:
+  0: tarcza
+kpt_shape: [3,3]
