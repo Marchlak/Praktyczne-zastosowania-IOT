@@ -12,9 +12,4 @@ WagaAnalogowaDataSet/
 waga_pose_ds/images/
 waga_pose_ds/labels/*.cache
 WagaTrening/
-yolo*.pt
 eval_*.csv
-*.pt
-!runs/
-!runs/**
-!runs/**/*.pt
